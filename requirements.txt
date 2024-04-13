@@ -1,0 +1,9 @@
+SQLAlchemy==1.4.45
+SQLAlchemy-Utils==0.38.3
+psycopg2==2.9.9
+cryptography==42.0.5
+pyjwt==2.8.0
+fastapi==0.110.1
+uvicorn==0.29.0
+databricks-sdk==0.25.1
+databricks-connect==14.3.1
